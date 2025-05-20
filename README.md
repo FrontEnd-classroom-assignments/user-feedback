@@ -15,6 +15,7 @@ Requirements:
 
 Bonus (Optional):
 - Add a timestamp to show when the feedback was submitted
+- Keep your feedback display logic in a separate component
 
 💡 Tips
 You can create a state like `const [isSubmitted, setIsSubmitted] = useState(false)`. Use it to control what gets rendered and when
