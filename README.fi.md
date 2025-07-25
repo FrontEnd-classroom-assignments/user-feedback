@@ -19,9 +19,8 @@ Lisää aikaleima, joka näyttää milloin palaute lähetettiin.
 
 Säilytä palautteen näyttämislogiikka erillisessä komponentissa.
 
-Vinkki:
-Voit luoda tilan esim. const [isSubmitted, setIsSubmitted] = useState(false).
-Käytä sitä hallitsemaan, mitä ja milloin näytetään.
+> [!TIP]
+> Voit luoda tilan esim. const [isSubmitted, setIsSubmitted] = useState(false). Käytä sitä hallitsemaan, mitä ja milloin näytetään.
 
 
 
