@@ -2,8 +2,8 @@
 Luo React-komponentti nimeltä `UserFeedback`, joka kerää käyttäjän palautetta yksinkertaisella lomakkeella ja näyttää lähetetyt tiedot ruudulla.
 
 ### Palaute­lomake sisältää seuraavat elementit:
-- Nimi-kenttä (input)
-- Viesti-kenttä (textarea)
+- Nimi-kenttä (`<input>`)
+- Viesti-kenttä (`<textarea>`)
 - Lähetä-painike
 
 ### Näytä lähetetty palaute:
