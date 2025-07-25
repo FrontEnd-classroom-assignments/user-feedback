@@ -7,7 +7,7 @@ Luo React-komponentti nimeltä `UserFeedback`, joka kerää käyttäjän palaute
 - Lähetä-painike
 
 ### Näytä lähetetty palaute:
-Kun käyttäjä klikkaa Lähetä, näytä hänen nimensä ja viestinsä lomakkeen alla.
+Kun käyttäjä klikkaa Lähetä painketta, näytä hänen nimensä ja viestinsä lomakkeen alla.
 
 Tyhjennä kentät lähetyksen jälkeen.
 
