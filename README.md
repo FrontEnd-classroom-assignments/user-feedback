@@ -1,3 +1,5 @@
+[Suomenkielinen tehtävänanto (README.fi.md)](README.fi.md)
+
 # User Feedback
 Create a React component `UserFeedback` that collects user feedback through a simple form and displays the submitted information on the screen.
 
