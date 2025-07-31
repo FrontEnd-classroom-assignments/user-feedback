@@ -12,13 +12,15 @@ Kun käyttäjä klikkaa Lähetä painketta, näytä hänen nimensä ja viestins�
 Tyhjennä kentät lähetyksen jälkeen.
 
 **Vaatimukset:**
+
 Tarkista, että molemmat kentät on täytetty ennen palautteen näyttämistä.
 
 **Bonus (valinnainen):**
+
 Lisää aikaleima, joka näyttää milloin palaute lähetettiin.
 
 Säilytä palautteen näyttämislogiikka erillisessä komponentissa.
 
 > [!TIP]
-> Voit luoda tilan esim. const [isSubmitted, setIsSubmitted] = useState(false). Käytä sitä hallitsemaan, mitä ja milloin näytetään.
+> Voit luoda tilan esim. `const [isSubmitted, setIsSubmitted] = useState(false)`. Käytä sitä hallitsemaan, mitä ja milloin näytetään.
 
