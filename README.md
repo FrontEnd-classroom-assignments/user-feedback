@@ -1,6 +1,6 @@
 [Suomenkielinen tehtävänanto (README.fi.md)](README.fi.md)
 
-# User Feedback (2 points)
+# User Feedback (3 points)
 Create a React component `UserFeedback` that collects user feedback through a simple form and displays the submitted information on the screen.
 
 Feedback form contains the following elements:
